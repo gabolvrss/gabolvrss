@@ -1,9 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  MasterJudah here 🔥!
+  Gabriel Olivares here🔥!
 </h1>
-
-<h3 align="center">Namaste 🙏 I'm Gabriel Olivares!</h3>
 
 ---
 
@@ -24,6 +22,27 @@
 🌟 **Aiming to build a sustainable Machine Learning, Data Mining, Deep Learning, API Automation**
 
 🎯 **I enjoy the predictive.**
+
+---
+
+## 🔧 Development Tools & Apps I Use:
+
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Opera GX](https://img.shields.io/badge/-Opera%20GX-FF1B2D?style=for-the-badge&logo=opera&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+</div>
 
 ---
 
