@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Gabriel Olivares here! <iframe src="https://giphy.com/embed/J2awouDsf23R2vo2p5" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/J2awouDsf23R2vo2p5">via GIPHY</a></p>
+  Gabriel Olivares here! <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="300" alt="Coding GIF"/>
 </h1>
 
 ---
