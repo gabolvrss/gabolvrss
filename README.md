@@ -1,13 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&co## 💫 Support Me:
 
-<div align="center">
-  <a href="https://ko-fi.com/gabolvrss">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" />
-  </a>
-</div>7FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Gabriel!+👋;Software+Developer+💻;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
-</div>
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
   MasterJudah here 🔥!
@@ -131,9 +124,7 @@
 ## � Support Me:
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/gabolvrss">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
+    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y41GC51H)
 </div>
 
 ---
