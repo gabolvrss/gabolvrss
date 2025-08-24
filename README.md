@@ -26,10 +26,6 @@
 
 💡 **Tip:** Échale un vistazo a mi perfil, maybe hay cosas que te pueden servir de información!
 
-<div align="center">
-  <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="250" alt="Coding Animation"/>
-</div>
-
 ---
 
 ## � Software & Tools I Use Daily:
