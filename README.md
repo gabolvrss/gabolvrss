@@ -1,34 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Holaa%2C+soy+Gaboo!!+👋;Cómo+va+tu+día%3F+😊;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Holaa%2C+soy+Gaboo!!+👋;Cómo+estás%3F+😊;Bienvenido+a+mi+GitHub!+🚀" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabolvrss&theme=github-dark&hide_border=true" alt="GitHub Streak" width="400"/>
-</div>
-
 ---
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-### 👋 ¡Hola! Me llamo **Gabriel Olivares**
-
-🎂 **20 años** | 🇨🇱 **Chile** | 🎓 **Estudiante UC**
-
-📚 **Estudiando:** Ingeniería con **Major en Investigación Operativa** y **Minor en Programación** en la **Pontificia Universidad Católica de Chile**
-
-� **Especialización:** Construcción de infraestructura en aplicaciones web con un enfoque moderno y cómodo de visualizar
-
-� **Filosofía:** Me gusta darle un toque moderno a todo para que sea más cómodo de visualizar
-
-🎯 **Objetivo:** Crear aplicaciones web que no solo funcionen bien, sino que también se vean increíbles
-
-💡 **Tip:** Échale un vistazo a mi perfil, maybe hay cosas que te pueden servir de información!
-
----
-
-## � Software & Tools I Use Daily:
+## 💻 Software & Tools I Use Daily:
 
 *Estas son las herramientas o software que diariamente uso para completar distintas tareas y realizar proyectos*
 
