@@ -118,9 +118,9 @@
 ---
 
 ## 💰 Support Me:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y41GC51H)
-
+<div align="center">
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y41GC51H)
+</div>
 ---
 
 <div align="center">
