@@ -1,10 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Holaa%2C+soy+Gaboo!!+👋;Cómo+va+tu+día%3F+😊;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
-</div>
-
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Gabriel Olivares here! 🔥
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Holaa%2C+soy+Gaboo!!+👋;Cómo+va+tu+día%3F+😊;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
 </h1>
 
 <div align="center">
