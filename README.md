@@ -1,32 +1,112 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Holaa%2C+soy+Gaboo!!+👋;Cómo+va+tu+día%3F+😊;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
+</div>
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Gabriel Olivares here! 
-  <img src="https://tenor.com/es/view/fire-joypixels-on-fire-burning-fiery-gif-17543228.gif" width="30px"/>
+  Gabriel Olivares here! 🔥
 </h1>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabolvrss&theme=github-dark&hide_border=true" alt="GitHub Streak" width="400"/>
+</div>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🎯 **Begin the Journey with Software Development in ASEAN. NYC**
+### 👋 ¡Hola! Me llamo **Gabriel Olivares**
 
-🌱 **I work on Front-end development and web designing which can be accessible to everyone on this planet.**
+🎂 **20 años** | 🇨🇱 **Chile** | 🎓 **Estudiante UC**
 
-💼 **I am currently pursuing a degree in Computer Science**
+📚 **Estudiando:** Ingeniería con **Major en Investigación Operativa** y **Minor en Programación** en la **Pontificia Universidad Católica de Chile**
 
-🎓 **Top performer and keen to expand my experience in tech**
+� **Especialización:** Construcción de infraestructura en aplicaciones web con un enfoque moderno y cómodo de visualizar
 
-⚡ **Fun about Microsoft, .Net framework, Full Stack Development, Python.**
+� **Filosofía:** Me gusta darle un toque moderno a todo para que sea más cómodo de visualizar
 
-🌟 **Aiming to build a sustainable Machine Learning, Data Mining, Deep Learning, API Automation**
+🎯 **Objetivo:** Crear aplicaciones web que no solo funcionen bien, sino que también se vean increíbles
 
-🎯 **I enjoy the predictive.**
+💡 **Tip:** Échale un vistazo a mi perfil, maybe hay cosas que te pueden servir de información!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="250" alt="Coding Animation"/>
+</div>
 
 ---
 
-## 🛠️ Languages & Tools I've placed My Hands On:
+## � Software & Tools I Use Daily:
+
+> *"Estas son las herramientas o software que diariamente uso para completar distintas tareas y realizar proyectos"*
+
+<div align="center">
+
+### 💖 Favourites
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
+<br>VS Code
+</td>
+<td align="center" width="120">
+<img src="https://github.com/user-attachments/assets/notion-icon" width="48" height="48" alt="Notion" style="background: white; border-radius: 8px; padding: 4px;"/>
+<br>Notion
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/>
+<br>Figma
+</td>
+<td align="center" width="120">
+<img src="https://github.com/user-attachments/assets/arc-browser-icon" width="48" height="48" alt="Arc Browser"/>
+<br>Arc Browser
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://github.com/user-attachments/assets/spotify-icon" width="48" height="48" alt="Spotify"/>
+<br>Spotify
+</td>
+<td align="center" width="120">
+<img src="https://github.com/user-attachments/assets/chatgpt-icon" width="48" height="48" alt="ChatGPT"/>
+<br>ChatGPT
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+<br>GitHub
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+<br>Git
+</td>
+</tr>
+</table>
+
+### 🛠️ Other Tools I Use
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Premiere](https://img.shields.io/badge/-Premiere-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
+![Word](https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)
+![Teams](https://img.shields.io/badge/-Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)
+![Calendar](https://img.shields.io/badge/-Calendar-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Google Drive](https://img.shields.io/badge/-Drive-4285F4?style=flat-square&logo=google-drive&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Telegram](https://img.shields.io/badge/-Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white)
+![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)
+![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)
+
+</div>
+
+---
+
+## 💻 Programming Languages & Technologies:
 
 <div align="center">
   
@@ -70,41 +150,77 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Analytics:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabolvrss&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabolvrss&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabolvrss&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabolvrss&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabolvrss&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabolvrss&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f85149&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabolvrss&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabolvrss&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f85149" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🤝 Contact Me:
+## 🏆 GitHub Achievements:
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gabolvrss&theme=github_dark&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💭 Daily Inspiration:
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true&quote_color=58a6ff&author_color=c9d1d9&bg_color=0d1117" alt="Dev Quote" />
+</div>
+
+---
+
+## 🤝 Let's Connect:
+
+<div align="center">
+
+### 📱 Find me around the web:
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabolvrss)
-[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gabolvrss)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabriel.olvrss)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://gabolvrss.dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel@gabolvrss.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/gabolvrss)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/gabolvrss)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/gabriel.olvrss)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-21262D?style=for-the-badge&logo=react&logoColor=58A6FF&labelColor=21262D)](https://gabolvrss.dev)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:gabriel@gabolvrss.dev)
 
 </div>
 
-## 💰 Support Me:
+---
+
+## 💰 Support My Work:
 
 <div align="center">
   
+*Si te gusta lo que hago y quieres apoyar mi trabajo, puedes invitarme un café ☕*
+  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gabolvrss)
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabolvrss&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+  
+  <br><br>
+  
+  **💻 "Code is poetry written in logic"** - *Gabo*
+  
+  <br>
+  
+  **⭐ Don't forget to star my repositories if you find them useful!**
 </div>
 <!--
 
