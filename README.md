@@ -34,74 +34,7 @@
 
 ## � Software & Tools I Use Daily:
 
-> *"Estas son las herramientas o software que diariamente uso para completar distintas tareas y realizar proyectos"*
-
-<div align="center">
-
-### 💖 Favourites
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
-<br>VS Code
-</td>
-<td align="center" width="120">
-<img src="https://github.com/user-attachments/assets/notion-icon" width="48" height="48" alt="Notion" style="background: white; border-radius: 8px; padding: 4px;"/>
-<br>Notion
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/>
-<br>Figma
-</td>
-<td align="center" width="120">
-<img src="https://github.com/user-attachments/assets/arc-browser-icon" width="48" height="48" alt="Arc Browser"/>
-<br>Arc Browser
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-<img src="https://github.com/user-attachments/assets/spotify-icon" width="48" height="48" alt="Spotify"/>
-<br>Spotify
-</td>
-<td align="center" width="120">
-<img src="https://github.com/user-attachments/assets/chatgpt-icon" width="48" height="48" alt="ChatGPT"/>
-<br>ChatGPT
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
-<br>GitHub
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-<br>Git
-</td>
-</tr>
-</table>
-
-### 🛠️ Other Tools I Use
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![Premiere](https://img.shields.io/badge/-Premiere-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
-![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
-![Word](https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)
-![Teams](https://img.shields.io/badge/-Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)
-![Calendar](https://img.shields.io/badge/-Calendar-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Google Drive](https://img.shields.io/badge/-Drive-4285F4?style=flat-square&logo=google-drive&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![Telegram](https://img.shields.io/badge/-Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white)
-![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)
-![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)
-
-</div>
-
----
-
-## 💻 Programming Languages & Technologies:
+*Estas son las herramientas o software que diariamente uso para completar distintas tareas y realizar proyectos*
 
 <div align="center">
   
@@ -162,39 +95,21 @@
 
 ---
 
-## 🏆 GitHub Achievements:
+## 📲 Contact Me:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabolvrss&theme=github_dark&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 💭 Daily Inspiration:
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true&quote_color=58a6ff&author_color=c9d1d9&bg_color=0d1117" alt="Dev Quote" />
-</div>
-
----
-
-## 🤝 Let's Connect:
-
-<div align="center">
-
-### 📱 Find me around the web:
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/gabolvrss)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/gabolvrss)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/gabriel.olvrss)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-21262D?style=for-the-badge&logo=react&logoColor=58A6FF&labelColor=21262D)](https://gabolvrss.dev)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:gabriel@gabolvrss.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-21262D?style=for-the-badge&logo=react&logoColor=58A6FF&labelColor=21262D)](https://gabriel-olivares.vercel.app)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:golivaresf@estudiante.uc.cl)
 
 </div>
 
 ---
 
-## 💰 Support My Work:
+## 💰 Support Me:
 
 <div align="center">
   
@@ -202,20 +117,6 @@
   
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gabolvrss)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabolvrss&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
-  
-  <br><br>
-  
-  **💻 "Code is poetry written in logic"** - *Gabo*
-  
-  <br>
-  
-  **⭐ Don't forget to star my repositories if you find them useful!**
 </div>
 <!--
 
