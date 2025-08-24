@@ -118,10 +118,11 @@
 ## 💰 Support Me:
 
 <div align="center">
-  <a href="https://ko-fi.com/gabolvrss">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" />
-  </a>
+  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gabolvrss)
+
 </div>
+
 ---
 
 <div align="center">
